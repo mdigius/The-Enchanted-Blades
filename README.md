@@ -1,4 +1,5 @@
 # The Enchanted Blades
 By: Michael, James, Tianqi, Cole
 
-The game takes place in a medieval fantasy world in which you start off as a knight with very basic armor / weapons. We are still developing the story, but the game will include dialogue in which the main character (a knight) is chosen to defend the castle to save a princess. He does this by fighting various waves of mobs such as enemy knights, vampires, werewolves, in which he gains gold and experience to upgrade his weapons for the stronger waves. The enemies are capable of longer range attacks and will progress in difficulty as the waves go on. The player can stay in the wild without a time limit to gain gold and experience. The mobs will be stronger with each wave and keep spawning until the player loses all his health or leaves the wild. In order to complete the game, the knight must face the final boss which is located in the enemy’s castle, so he is able to save the princess from some kind of monster, probably a dragon. The player can enter the enemy’s castle once he finishes a number of waves. In order to complete this task, he must go to the merchant between waves, and purchase potions, armor etc. We may also add in the future various merchants such as a blacksmith to give more variety.
+Game explanation and showcase:
+https://youtu.be/E3QxgOIlIz4
